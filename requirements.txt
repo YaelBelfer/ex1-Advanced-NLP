@@ -1,0 +1,7 @@
+datasets
+torch
+transformers
+tqdm
+wandb
+evaluate
+urllib3<2.0.0
